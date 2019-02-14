@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E6E6E6"
+    android:orientation="vertical"
+    tools:context=".Main3Activity">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/titulo5"/>
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:columnCount="2"
+        android:rowCount="4">
+     <ImageView android:src="@drawable/app1"
+         android:layout_marginLeft="50dp"/>
+      <ImageView android:src="@drawable/app2"
+          android:layout_marginLeft="70dp"/>
+      <ImageView android:src="@drawable/app3"
+          android:layout_marginLeft="50dp"
+          android:layout_marginTop="30dp"/>
+      <ImageView android:src="@drawable/app4"
+          android:layout_marginLeft="70dp"
+          android:layout_marginTop="30dp"/>
+      <ImageView android:src="@drawable/app5"
+          android:layout_marginTop="30dp"
+          android:layout_marginLeft="50dp"/>
+      <ImageView android:src="@drawable/app6"
+          android:layout_marginTop="30dp"
+          android:layout_marginLeft="70dp"/>
+      <ImageView android:src="@drawable/app7"
+          android:layout_marginTop="30dp"
+          android:layout_marginLeft="50dp"/>
+      <ImageView android:src="@drawable/app8"
+          android:layout_marginTop="30dp"
+          android:layout_marginLeft="70dp"/>
+    </GridLayout>
+
+
+</LinearLayout>

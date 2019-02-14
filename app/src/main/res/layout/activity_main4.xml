@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+   android:columnCount="3"
+    android:rowCount="5"
+    tools:context=".Main4Activity">
+
+    <ImageView android:src="@drawable/dib1"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="15dp"/>
+    <ImageView android:src="@drawable/dib2"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"/>
+    <ImageView android:src="@drawable/dib3"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"/>
+    <ImageView android:src="@drawable/dib4"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="30dp"/>
+    <ImageView android:src="@drawable/dib5"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"/>
+    <ImageView android:src="@drawable/dib6"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"/>
+    <ImageView android:src="@drawable/dib7"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="30dp"/>
+    <ImageView android:src="@drawable/dib8"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"/>
+    <ImageView android:src="@drawable/dib9"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"/>
+    <ImageView android:src="@drawable/dib10"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="30dp"/>
+    <ImageView android:src="@drawable/dib11"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"/>
+    <ImageView android:src="@drawable/dib12"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"/>
+    <ImageView android:src="@drawable/dib13"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="30dp"/>
+    <ImageView android:src="@drawable/dib14"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="20dp"/>
+    <ImageView android:src="@drawable/dib15"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"/>
+
+
+</GridLayout>
